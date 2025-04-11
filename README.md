@@ -29,7 +29,7 @@ A Tableau dashboard exploring vendor activation, sales performance, and revenue 
 
 ## Data
 
-The dashboard uses a dummy dataset simulating field sales and vendor transaction activity. All data is hashed anonymized.
+The dashboard uses a dummy dataset simulating field sales and vendor transaction activity. All data is hashed and anonymized.
 
 ---
 
