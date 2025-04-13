@@ -1,6 +1,6 @@
 # Sales Analytics Dashboard
 
-A Tableau dashboard exploring vendor activation, sales performance, and revenue trends using dummy field sales data. The data in .csv format was cleaned and manipulated on PostgreSQL.
+A Tableau dashboard exploring vendor activation, sales performance, and revenue trends using dummy field sales data. The data in .csv format was cleaned and queried on PostgreSQL.
 
 [**View the Interactive Dashboard on Tableau Public**](https://public.tableau.com/views/SalesAnalytics_17442935115980/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
@@ -38,5 +38,5 @@ The dashboard uses a dummy dataset simulating field sales and vendor transaction
 ![Vendor Acquisition Screenshot](dashboard1.png)
 *Vendor onboarding metrics and activation rates*
 
-![Vendor Revenue Screenshot](dashboard2(3).png)
+![Vendor Revenue Screenshot](dashboard2 (3).png)
 *TPV trends, top vendors by revenue, and churn risk overview*
