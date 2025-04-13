@@ -38,5 +38,5 @@ The dashboard uses a dummy dataset simulating field sales and vendor transaction
 ![Vendor Acquisition Screenshot](dashboard1.png)
 *Vendor onboarding metrics and activation rates*
 
-![Vendor Revenue Screenshot](dashboard2.png)
+![Vendor Revenue Screenshot](dashboard2(3).png)
 *TPV trends, top vendors by revenue, and churn risk overview*
